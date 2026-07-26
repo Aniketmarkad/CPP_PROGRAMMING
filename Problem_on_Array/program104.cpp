@@ -12,5 +12,5 @@ int main()
     cout<<Arr[3]<<"\n";
     cout<<Arr[4]<<"\n";
 
-    return 0;
+    return 0;             
 }
