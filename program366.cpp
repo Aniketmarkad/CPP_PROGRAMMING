@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-struct node
+struct node 
 {
     int data; 
     struct node *next;
