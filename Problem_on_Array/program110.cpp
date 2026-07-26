@@ -14,7 +14,7 @@ void Display(int Arr[],int iSize)
         cout<<Arr[iCnt]<<"\n";
     }
     
-}
+} 
 
 int main()
 {
